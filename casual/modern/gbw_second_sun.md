@@ -5,7 +5,9 @@
 
 ## Other Spells - 
 * 4 Duress
+* 4 Explore
+* 2 Diabolic Tutor
 * 4 Wrath of God
 
 
-Land - 
+## Land - 
