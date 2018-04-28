@@ -1,23 +1,23 @@
 ## Creatures - 25
 * 4 Putrid Imp
-* 4 Narcomoeba
-* 3 Golgari Thug
-* 4 Stinkweed Imp
-* 4 Ichorid
-* 1 Flame-Kin Zealot
-* 4 Golgari Grave-Troll
-* 1 Iona, Angel 
+* -4 Narcomoeba-
+* -3 Golgari Thug-
+* -4 Stinkweed Imp-
+* -4 Ichorid-
+* -1 Flame-Kin Zealot-
+* 4 Golgari Grave-Troll (1)
+* 1 Iona, Angel (1)
 
 ## Other Spells - 19 
-* 1 Darkblast
-* 4 Faithless Looting
-* 4 Cabal Therapy
-* 3 Breakthrough
-* 4 Bridge from Below
-* 3 Dread Return
+* -1 Darkblast-
+* -4 Faithless Looting-
+* -4 Cabal Therapy-
+* –3 Breakthrough-
+* -4 Bridge from Below-
+* -3 Dread Return-
 
 ## Land - 15
-* 3 Cephalid Coliseum
+* -3 Cephalid Coliseum-
 * 4 City of Brass
 * 4 Mana Confluence
 * 4 Gemstone Mine
